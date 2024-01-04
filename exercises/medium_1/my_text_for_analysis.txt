@@ -1,0 +1,4 @@
+By now, you're probably starting to realize that regex have some unusual features, and you may even see how useful they can be. 
+If you're still wondering where this is all going, though, we're getting there. First, though, we need to look at shortcuts for the most commonplace character classes.
+
+Before we do that, we have some exercises for you. In these exercises, use Rubular to write and test your regex. You don't need to write any code, though you may need to use IRB or the JavaScript console for some items. We expect you to use character classes in these exercises; do not use alternation when character classes will do the job.
